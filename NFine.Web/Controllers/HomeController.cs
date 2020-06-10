@@ -20,7 +20,6 @@ namespace NFine.Web.Controllers
         public ActionResult Index()
         {
 
-
             return View();
         }
         [HttpGet]
